@@ -2,8 +2,8 @@
 
 # Johnny Chan
 
-- Aspiring Software Engineer
-- 📍 Norwich, Norfolk, United Kingdom
+- 💭 Aspiring Software Engineer
+- 📍  Norwich, Norfolk, United Kingdom
 - 📧 Email: chantinheng@gmail.com
 - 🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/johnnytinhengchan)
 - 🌐 HyperionDev Portfolio: [View Results](https://www.hyperiondev.com/portfolio/JC22120009725/)
